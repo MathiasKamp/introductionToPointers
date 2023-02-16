@@ -1,0 +1,23 @@
+# ninja log v5
+0	162	6982494982782638	CMakeFiles/wordCounter.dir/main.c.obj	7cca13a4fbbfe8b0
+163	300	6982494984033352	wordCounter.exe	e289c27ca672072e
+2	172	6982495782083490	CMakeFiles/wordCounter.dir/main.c.obj	7cca13a4fbbfe8b0
+173	314	6982495783355134	wordCounter.exe	e289c27ca672072e
+2	82	6982496188618127	CMakeFiles/wordCounter.dir/main.c.obj	7cca13a4fbbfe8b0
+83	199	6982496189675655	wordCounter.exe	e289c27ca672072e
+1	81	6982496571372783	CMakeFiles/wordCounter.dir/main.c.obj	7cca13a4fbbfe8b0
+82	199	6982496572440124	wordCounter.exe	e289c27ca672072e
+2	90	6982497137171428	CMakeFiles/wordCounter.dir/main.c.obj	7cca13a4fbbfe8b0
+90	207	6982497138246418	wordCounter.exe	e289c27ca672072e
+1	173	6982499136414414	CMakeFiles/wordCounter.dir/main.c.obj	7cca13a4fbbfe8b0
+173	305	6982499137630040	wordCounter.exe	e289c27ca672072e
+2	81	6982499291998509	CMakeFiles/wordCounter.dir/main.c.obj	7cca13a4fbbfe8b0
+81	194	6982499293039870	wordCounter.exe	e289c27ca672072e
+2	89	6982500211738744	CMakeFiles/wordCounter.dir/main.c.obj	7cca13a4fbbfe8b0
+89	210	6982500212848485	wordCounter.exe	e289c27ca672072e
+1	84	6982500458469570	CMakeFiles/wordCounter.dir/main.c.obj	7cca13a4fbbfe8b0
+85	198	6982500459513030	wordCounter.exe	e289c27ca672072e
+2	173	6982501318677220	CMakeFiles/wordCounter.dir/main.c.obj	7cca13a4fbbfe8b0
+173	317	6982501319998411	wordCounter.exe	e289c27ca672072e
+1	80	6982501617071493	CMakeFiles/wordCounter.dir/main.c.obj	7cca13a4fbbfe8b0
+80	199	6982501618176714	wordCounter.exe	e289c27ca672072e
